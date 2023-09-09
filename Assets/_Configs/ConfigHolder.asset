@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9efa9319b4067b47b8845de56ffac8b, type: 3}
+  m_Name: ConfigHolder
+  m_EditorClassIdentifier: 
+  bulletConfig: {fileID: 11400000, guid: 4827c72f22e892e4592cf7f4a7159dba, type: 2}
+  enemyConfig: {fileID: 11400000, guid: d642c03814278e741a5c80116f949d7c, type: 2}
+  enemyBossConfig: {fileID: 11400000, guid: 2a26cf32e0ccafc4fbf51ffdb226d05a, type: 2}
+  weaponConfig: {fileID: 11400000, guid: 54bfcbcfbafc243449a3d4d344e88d02, type: 2}

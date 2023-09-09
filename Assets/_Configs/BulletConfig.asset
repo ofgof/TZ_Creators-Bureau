@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14253b9703914ca4486140b7d0c0d752, type: 3}
+  m_Name: BulletConfig
+  m_EditorClassIdentifier: 
+  defaultSpeed: 10
+  increaseSpeedPerLevel: 1
+  maxSpeedLevel: 10
+  speedUpgradePrice: 3
+  defaultDamage: 1
+  increaseDamagePerLevel: 1
+  maxDamageLevel: 10
+  damageUpgradePrice: 4
